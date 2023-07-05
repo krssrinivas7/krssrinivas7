@@ -3,6 +3,7 @@
 - Currently I am working as a DevOps Engineer.
 - I have Knowledge on Following:
 - Scripting Language - Schellscript
+- Operating System - Linux, Windows
 - Cloud Environment - Amazon Web Services
 - DevOps Tools - Git,GitHub, Maven, SonarQube, Tomcat, Nexus
 - CI/CD Tool - Jenkins
