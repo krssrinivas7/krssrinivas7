@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kosanasrinivas257@gmail.com
-- Lives in India
+- Lives in India    
 - Pronouns He/Him.
   
 
