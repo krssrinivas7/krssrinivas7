@@ -1,26 +1,46 @@
-- 👋 Hi, I’m KRS Srinivas
-- Studied Civil Engineering in VR Siddhartha Engineering College.
-- Currently I am working as a DevOps Engineer.
-- I have Knowledge on Following:
-- Scripting Language - Schellscript
-- Operating System - Linux, Windows
-- Cloud Environment - Amazon Web Services
-- DevOps Tools - Git,GitHub, Maven, SonarQube, Tomcat, Nexus
-- CI/CD Tool - Jenkins
-- Configuration & Administration Tool - Ansible
-- Containerization Tool - Docker
-- Container Orchestration Tool - Kubernetes
-- Infrastructure as a Code (IaC Tool) - Terraform
-- Programming Language - Python (Currently Learning)
-- 👀 I’m interested in learning new things and Technologies to update myself.
-- 🌱 I’m currently learning Azure
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me kosanasrinivas257@gmail.com
-- Lives in India    
-- Pronouns He/Him.
-  
+# Hi there, I'm KRS Srinivas 👋
 
-<!---
-krssrinivas7/krssrinivas7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[>4;2m[?12;2$y### About Me
+I am a dedicated DevOps Engineer with a background in Civil Engineering. Passionate about leveraging technology to build efficient and robust infrastructures. Constantly learning and exploring new technologies to stay ahead in the ever-evolving tech industry.
+
+### 💻 Tech Stack
+- Scripting Language: Shellscript
+- Operating System: Linux, Windows
+- Cloud Environment: Amazon Web Services, Azure (Currently Learning)
+- DevOps Tools: Git, GitHub, Maven, SonarQube, Tomcat, Nexus
+- CI/CD Tool: Jenkins
+- Configuration & Administration Tool: Ansible
+- Containerization Tool: Docker
+- Container Orchestration Tool: Kubernetes
+- Infrastructure as Code (IaC Tool): Terraform
+- Programming Language: Python (Currently Learning)
+
+### 🌱 Currently Learning
+Expanding my expertise in Azure to broaden my cloud skills and stay versatile in the field of cloud computing and DevOps.
+
+### 📫 Contact Me
+Feel free to reach out at kosanasrinivas257@gmail.com.
+
+### 📍 Location
+Based in India
+
+### 🚀 GitHub Stats
+
+[![](https://raw.githubusercontent.com/krssrinivas7/ThickBlack/master/profile-summary-card-output/highcontrast/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/krssrinivas7/ThickBlack/master/profile-summary-card-output/highcontrast/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/krssrinivas7/ThickBlack/master/profile-summary-card-output/highcontrast/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/krssrinivas7/ThickBlack/master/profile-summary-card-output/highcontrast/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/krssrinivas7/ThickBlack/master/profile-summary-card-output/highcontrast/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+### 🌐 Connect with Me
+
+LinkedIn - http://www.linkedin.com/in/krs-srinivas-dkd
+
+
+### 🎯 Goals for 2023
+- Master Azure cloud services.
+- Improve Python programming skills.
+- Explore advanced DevOps techniques.
+- Contribute to open-source projects.
+
+### 🤝 Looking to Collaborate
+Open to collaborating on projects related to DevOps, cloud computing, and infrastructure automation.
