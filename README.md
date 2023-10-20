@@ -22,7 +22,7 @@ Expanding my expertise in Azure to broaden my cloud skills and stay versatile in
 Feel free to reach out at kosanasrinivas257@gmail.com.
 
 ### 📍 Location
-Based in India
+Hyderabad, India
 
 ### 🚀 GitHub Stats
 
