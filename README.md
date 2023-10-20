@@ -1,6 +1,6 @@
 # Hi there, I'm KRS Srinivas 👋
 
-[>4;2m[?12;2$y### About Me
+### About Me
 I am a dedicated DevOps Engineer with a background in Civil Engineering. Passionate about leveraging technology to build efficient and robust infrastructures. Constantly learning and exploring new technologies to stay ahead in the ever-evolving tech industry.
 
 ### 💻 Tech Stack
