@@ -14,6 +14,7 @@ I am a dedicated DevOps Engineer with a background in Civil Engineering. Passion
 - Container Orchestration Tool: Kubernetes
 - Infrastructure as Code (IaC Tool): Terraform
 - Programming Language: Python (Currently Learning)
+- Database: MongoDB, MSSQL
 
 ### 🌱 Currently Learning
 Expanding my expertise in Azure to broaden my cloud skills and stay versatile in the field of cloud computing and DevOps.
