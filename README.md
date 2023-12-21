@@ -38,7 +38,7 @@ Hyderabad, India
 LinkedIn - http://www.linkedin.com/in/krs-srinivas-dkd
 
 
-### 🎯 Goals for 2023
+### 🎯 Goals for 2024
 - Master Azure cloud services.
 - Improve Python programming skills.
 - Explore advanced DevOps techniques.
